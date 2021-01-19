@@ -365,10 +365,10 @@ Using the vowelCounter function below do the following:
 */
 
 
-function vowelCounter(strinput) 
-{
+// function vowelCounter(strinput) 
+// {
   
-}
+// }
 
 
 
